@@ -1,0 +1,17 @@
+I introduced my self.
+Learned about the basic Hardware components of the computer such as cpu, Memory, Storage medium (HDD, SSD) and how fast they can read and write the data. 
+And also the cache Memory.
+We discussed about the whats app working method. Like Developer -> Build & Deployment -> Server <-> Data Base.
+Types of data transfer methods,
+    1.UDP
+    2.TCP
+    3.HTTPS
+UDP have very fast data transfer they don't store any log data. But TCP method stores the log and it helps to rectify the error later period.
+And how DNS works and website ip. Each website have unique IP and that ip is mapped to the domain name called google.com have unique ip.
+CDN Content Delivery Network
+
+I started to design a static simple web page by using html & css only.
+I designed a page call redbus.
+
+https://github.com/NareshBabuDy/DAY-1-HTML
+
