@@ -1,0 +1,8 @@
+1. Task given in HTML and CSS.
+ cloning of travel plan cards using html and Css.
+
+ learned how to host a own code using github.
+
+ problems
+
+ adding  images in a div and measurements in that
