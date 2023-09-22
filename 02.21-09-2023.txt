@@ -1,0 +1,23 @@
+basics of html tags and shortcuts in css like th*4, tr>td*4, p.class_name, p#id_name, to make similar changes or type same text in many places hold alt and click the place and type the text, ctr+/ to comand line any code.
+
+Types of style sheets
+inline
+external
+internal
+external css is good practice for a web developement
+
+types of selectors
+class selector
+atribute selector
+id selector
+combination selector
+pseudo selector
+
+* display flex - by default flex direction in row 
+* flex direction (row, coloum, row reverse, coloum reverse)
+* text alignment 
+* text decorator
+* align content
+* justify content
+* cursor (pointer)
+* height or weight (vh, vw to use the full viewing angle of the web view)
