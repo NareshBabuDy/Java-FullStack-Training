@@ -8,6 +8,16 @@ Today we learned about the Java Basics
  Access modifier
  Access controller
 
+integer long error  max length integer 1000000000
+float long error max length float 3.40282347e+38f
+char max error char should have only one letter in the quots
+long limit error max length for long is 9223372036854775807L
+double long error max length for double is 1.79769313486231570e+308d
+short error max length for short is 32767
+array out of bound index if mentioned array size exits
+without mentioning the array size in the array it shows array dymension missing
+
+
 Java
     -data types
         primitive
