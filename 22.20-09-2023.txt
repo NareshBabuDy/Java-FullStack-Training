@@ -1,0 +1,10 @@
+Today we learned about the Java Basics 
+ Array
+ Datatypes
+ Method 
+ string buffer
+ string builder
+ string
+ Access modifier
+ Access controller
+ 
