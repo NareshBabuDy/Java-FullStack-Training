@@ -1,0 +1,38 @@
+SQL Concepts 
+------------
+    *DDL commands 
+        - CREATE
+        - ALTER 
+        - DROP 
+        - TRUNCATE 
+
+    *DML commands 
+        - INSERT 
+        - UPDATE 
+        - DELETE 
+
+    *DQL commands 
+        - SELECT 
+    
+    *Joins 
+        - Inner join 
+        - Left join 
+        - right join 
+    
+    *Aggregate function 
+        - Count() 
+
+    *Aliasing
+
+    *Clause 
+        - where 
+
+    *Order By 
+        - DESC 
+        - ASC
+
+    *Not null 
+    *Default 
+    *Datatypes 
+        - INT 
+        - VARCHAR 
