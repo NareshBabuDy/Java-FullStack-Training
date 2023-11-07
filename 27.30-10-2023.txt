@@ -15,7 +15,7 @@ Task completed
 
 Github Repository link
 ----------------------
-->E-commerce using java - https://github.com/KarthigaGurusamy/Java_ECommerce
+->E-commerce using java - https://github.com/NareshBabuDy/ecommercejava
 
 
 Database basics 
