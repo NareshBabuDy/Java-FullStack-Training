@@ -13,4 +13,3 @@ Topics learned:
    12. JdbcTemplate.
    13. application property.
 
-has context menu
