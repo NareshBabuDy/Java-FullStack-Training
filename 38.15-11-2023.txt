@@ -1,0 +1,16 @@
+Online Job Posting Site
+-----------------------
+
+    *Continued with the backend part of the project 
+        -> Models 
+            - Role (Admin, User, Recruiter)
+            - AppUser  
+            - Category
+            - Company
+            - JobPost
+            - Profile
+            - Apply to Job
+        -> Controller 
+            - Role (Admin, User, Recruiter)
+            - AppUser  
+            - Category
