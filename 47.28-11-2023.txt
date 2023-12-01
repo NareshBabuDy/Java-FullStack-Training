@@ -1,0 +1,11 @@
+ *Continued with the back end and front end integration.
+        - PUT profile.
+        - UI changes.
+            -> Changed the nav bar for user and admin.
+        - Added user details and their bookings.
+
+
+    *Yet to complete 
+        - Front end user validation for navigation.
+        - Integrate the user details and bookings in the admin page.
+        - Upload and download images for campings and locations

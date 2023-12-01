@@ -1,0 +1,12 @@
+Online Job Posting Site
+-----------------------
+
+    ->Controller
+        - Get method for User Profile
+        - Get method for Company Profile
+        - Get method for All Jobs
+
+Errors Faced
+------------
+        - 404 Bad request
+        - 500 Errors

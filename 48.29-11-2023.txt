@@ -1,0 +1,8 @@
+Online Job Posting Site
+-----------------------
+    * Added Lottie files
+    * Make styles in the user end
+    * Added User can edit the Profile from the frond end
+Faced Error
+-----------
+    * 400 & 415 error in the UI

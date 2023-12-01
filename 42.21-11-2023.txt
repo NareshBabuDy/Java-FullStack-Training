@@ -1,0 +1,6 @@
+Online Job Posting Site
+-----------------------
+
+    ->Controller
+        Apply to Job Controller 
+        and added individual person can apply on job one time

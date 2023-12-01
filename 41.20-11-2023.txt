@@ -1,0 +1,6 @@
+Online Job Posting Site
+-----------------------
+
+    ->Controller
+        New Register form for user and Company 
+        User Profile details edited

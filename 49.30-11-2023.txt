@@ -1,0 +1,9 @@
+Online Job Posting Site
+-----------------------
+
+    * Loading pdf from the back end 
+
+    Challenged
+
+    * Struggled to find the write package to read the pdf in the UI
+    * fixed with angular project 

@@ -1,0 +1,15 @@
+Online Job Posting Site
+-----------------------
+
+    ->Controller
+        - Job Controller
+        - Profile Controller
+        - Application Controller
+        - Admin Job Controller
+        - Admin Company Controller
+        - Admin User Profile Controller
+
+    Admin can View individual profile details
+
+
+    By Get Method
